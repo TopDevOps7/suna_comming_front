@@ -1,0 +1,21 @@
+{
+  "name": "sunacomingsoon",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "Suna",
+    "vue",
+    "toast"
+  ],
+  "author": "dragonwing",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.13"
+  }
+}
